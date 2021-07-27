@@ -1,2 +1,2 @@
 # bmi
-<img src="https://github.com/jamurcapires/bmi/readme/drone.svg" width="128"/>
+<img src="https://github.com/jamurcapires/bmi/assets/drone.svg" width="128"/>
